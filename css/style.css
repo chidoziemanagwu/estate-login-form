@@ -1,0 +1,33 @@
+.bg{
+     background:url('../img/use.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 0;
+    margin: 0;
+}
+.cont{
+  width: 100vw;
+    height: 100vh;
+    margin: 0;
+    background-color: rgba(0,0,0,.8);
+        padding: 10vmax 0 0 0;
+}
+.btnme{
+    width: 40%;
+}
+.forh1{
+    color: black;
+    text-align: center;
+    text-shadow: rgb(0,0,0).5px 1px .5px;
+}
+.inner{
+    width:60%;
+    margin: auto;
+    background-color:rgba(255,255,255,0.4);
+    border-radius: 10px;
+    padding: 5vmin 2vmin; 
+}
+.btnme:hover{
+    width: 60%;
+    transition: all ease-in-out 0.3s;
+}
